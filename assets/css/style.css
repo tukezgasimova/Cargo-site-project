@@ -1,0 +1,6 @@
+@import url(mixin.scss);
+@import url(reset.scss);
+@import url(variable.scss);
+.homepage {
+  background-image: url(/assets/image/Rectangle\ 16.png);
+}/*# sourceMappingURL=style.css.map */
